@@ -25,8 +25,8 @@ This Python script provides a comprehensive solution for managing and encrypting
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/confidential-credential-manager.git
-    cd confidential-credential-manager
+    git clone https://github.com/AnonymousI0I/Confidential-Credential-Manager.git
+    cd Confidential-Credential-Manager
     ```
 
 2. **Install the required module**:
@@ -42,7 +42,7 @@ This Python script provides a comprehensive solution for managing and encrypting
 1. **Run the script**:
 
     ```bash
-    python password_manager.py
+    python Confidential Credential Manager.py
     ```
 
 2. **Follow the on-screen prompts to add, retrieve, list usernames, reset the app, or quit**:
